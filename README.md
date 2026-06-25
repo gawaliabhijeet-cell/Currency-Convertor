@@ -76,7 +76,8 @@ cd Currency-Converter
 ### Install Dependencies
 
 ```bash
-npm create vite@latest```
+npm create vite@latest
+```
 
 
 ```bash
