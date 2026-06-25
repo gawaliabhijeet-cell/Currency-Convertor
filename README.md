@@ -64,22 +64,20 @@ Display result
 ### Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/gawaliabhijeet-cell/Currency-Convertor.git
 ```
 
 ### Navigate to Project Folder
 
 ```bash
-cd currency-converter
+cd Currency-Converter
 ```
 
 ### Install Dependencies
 
 ```bash
-npm install
-```
+npm create vite@latest```
 
-### Start Development Server
 
 ```bash
 npm run dev
